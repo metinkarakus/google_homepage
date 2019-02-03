@@ -22,9 +22,8 @@
     
 }
 
-#others:hover{
+.others:hover{
     text-decoration: underline;
-
 }
 
 #signin {
