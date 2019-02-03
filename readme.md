@@ -1,0 +1,1 @@
+This is a replica of google's homepage for practicing html and css.
